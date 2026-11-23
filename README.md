@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/forge-banner.svg" alt="Hardcore Lab — цифровая кузня, готический баннер с эмблемой черепа и шестерни" width="100%">
+  <br><br>
+  <strong>✦ ВХОДЯЩИЙ СИГНАЛ: SLEEPY JOE ✦</strong>
+  <br><br>
+  <em>«В мрачной тьме продакшена спасают логи, бэкапы и здравый смысл».</em>
+  <br><br>
+  <a href="https://github.com/Hardcore-lab?tab=repositories"><b>⚔️ Исследовать архив</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Hardcore-lab/Hardcore-lab/issues/new"><b>📡 Отправить сигнал</b></a>
+</div>
 
-<!--
-**Hardcore-lab/Hardcore-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ＋＋＋ Досье оператора ＋＋＋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я — **Sleepy Joe**, здесь мой цифровой архив. Мне интересны веб-разработка, Linux, автоматизация, инфраструктура и безопасность. Люблю превращать сложные задачи в понятные работающие системы.
+
+### ⚙️ Секторы кузни
+
+| Сектор | Что внутри |
+| :--- | :--- |
+| **I · Архитектура** | Веб-проекты, интерфейсы и практичные инструменты. |
+| **II · Машинный дух** | Linux, серверы, контейнеры и автоматизация. |
+| **III · Оборона** | Исследование безопасности и внимательная проверка решений. |
+| **IV · Эксперименты** | Новые идеи, AI-инструменты и прототипы. |
+
+### 🕯️ Литания сборки
+
+> Разобрать хаос. Собрать систему. Проверить дважды. Отправить в прод.
+
+<div align="center">
+  <sub>✠ FORGE · DEFEND · BUILD ✠</sub><br>
+  <sub>Неофициальное оформление в духе мрачной научной фантастики.</sub>
+</div>
