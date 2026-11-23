@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/forge-banner.svg" alt="Hardcore Lab — цифровая кузня, готический баннер с эмблемой черепа и шестерни" width="100%">
+  <img src="assets/forge-banner.svg" alt="Adeptus Astartes — цифровая кузня, готический баннер с эмблемой черепа и шестерни" width="100%">
   <br><br>
   <strong>✦ ВХОДЯЩИЙ СИГНАЛ: SLEEPY JOE ✦</strong>
   <br><br>
