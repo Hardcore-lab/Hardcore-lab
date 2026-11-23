@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">HARDCORE LAB — Forge of Code</title>
+<desc id="desc">Gothic science-fiction banner with an original skull and cog emblem in antique gold and crimson.</desc>
+<defs>
+<linearGradient id="void" x2="1" y2="1"><stop stop-color="#07090d"/><stop offset=".5" stop-color="#151419"/><stop offset="1" stop-color="#0a090d"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#8f271f" stop-opacity=".42"/><stop offset=".45" stop-color="#66231c" stop-opacity=".14"/><stop offset="1" stop-color="#120c0e" stop-opacity="0"/></radialGradient>
+<linearGradient id="metal" x2="0" y2="1"><stop stop-color="#f8e1a3"/><stop offset=".42" stop-color="#ae8651"/><stop offset="1" stop-color="#6f4829"/></linearGradient>
+<pattern id="stars" width="95" height="69" patternUnits="userSpaceOnUse"><circle cx="17" cy="13" r="1" fill="#b8a98d" opacity=".26"/><circle cx="81" cy="52" r=".7" fill="#ead3a7" opacity=".35"/></pattern>
+</defs>
+<rect width="1200" height="360" fill="url(#void)"/><rect width="1200" height="360" fill="url(#stars)"/>
+<ellipse cx="600" cy="145" rx="420" ry="230" fill="url(#glow)"/>
+<path d="M0 0h1200v360H0z" fill="none" stroke="#76502f" stroke-width="10"/>
+<path d="M18 18h1164v324H18z" fill="none" stroke="#a77b48" stroke-width="1.5"/>
+<path d="M32 32h1136v296H32z" fill="none" stroke="#69452f" stroke-width="1" opacity=".75"/>
+<path d="M37 85h285m556 0h285M37 269h340m446 0h340" stroke="#7d5938" stroke-width="1" opacity=".7"/>
+<path d="M36 36h90l-20 20H56v50M1164 36h-90l20 20h50v50M36 324h90l-20-20H56v-50m1108 70h-90l20-20h50v-50" fill="none" stroke="#b88b50" stroke-width="3"/>
+<path d="M188 72l38 13-38 13-38-13zm824 0l38 13-38 13-38-13z" fill="#8d2526" stroke="#b88b50" stroke-width="2"/>
+<g transform="translate(600 88)">
+<circle r="62" fill="#141014" stroke="#b68e53" stroke-width="3"/><circle r="52" fill="none" stroke="#7e5b37" stroke-width="1.5"/>
+<g fill="#b88b50"><path d="M-5-75h10l3 16H-8zM-5 59h10l3 16H-8zM-75-5h16V5h-16zM59-5h16V5H59z"/><path d="M-55-61l11-7 10 15-10 7zM44 46l11-7 10 15-10 7zM-61 55l-7-11 15-10 7 10zM46-44l-7-11 15-10 7 11z"/></g>
+<path d="M-23-23Q0-40 23-23Q35-14 30 9Q28 19 18 23L17 37H-17L-18 23Q-28 19-30 9Q-35-14-23-23Z" fill="url(#metal)" stroke="#dec28c" stroke-width="2"/>
+<path d="M-24-2q8-11 18-2l-3 8-11-1zm48 0Q16-13 6-4l3 8 11-1zM0 4l-7 12h14z" fill="#161014"/>
+<path d="M-14 24v11m7-11v12M0 24v12m7-12v12m7-12v11" stroke="#26171a" stroke-width="2"/>
+<path d="M-49 21l-33 31m131-31 33 31" stroke="#a77947" stroke-width="3"/>
+</g>
+<text x="600" y="210" text-anchor="middle" fill="url(#metal)" font-family="Georgia, 'Times New Roman', serif" font-size="67" font-weight="bold" letter-spacing="7">HARDCORE LAB</text>
+<path d="M286 235h224l22 9h136l22-9h224" fill="none" stroke="#b58a4f" stroke-width="2"/>
+<path d="M527 244l73 15 73-15-73-13z" fill="#6b2021" stroke="#c59b5e" stroke-width="1.5"/>
+<text x="600" y="302" text-anchor="middle" fill="#d2bd93" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="5">FORGE  ·  DEFEND  ·  BUILD</text>
+<text x="70" y="289" fill="#8d6b48" font-family="monospace" font-size="13" letter-spacing="2">ARCHIVE / 0040</text>
+<text x="1130" y="289" text-anchor="end" fill="#8d6b48" font-family="monospace" font-size="13" letter-spacing="2">SIGNAL: ACTIVE</text>
+</svg>
