@@ -1,35 +1,35 @@
 <div align="center">
-  <img src="assets/forge-banner.svg" alt="Adeptus Astartes — цифровая кузня, готический баннер с эмблемой черепа и шестерни" width="100%">
+  <img src="assets/forge-banner.svg" alt="Adeptus Astartes — a gothic forge banner with a skull and cog emblem" width="100%">
   <br><br>
-  <strong>✦ ВХОДЯЩИЙ СИГНАЛ: Adeptus Astartes ✦</strong>
+  <strong>✦ INCOMING TRANSMISSION: ADEPTUS ASTARTES ✦</strong>
   <br><br>
-  <em>«В мрачной тьме продакшена спасают логи, бэкапы и здравый смысл».</em>
+  <em>“In the grim darkness of production, logs, backups, and common sense endure.”</em>
   <br><br>
-  <a href="https://github.com/Hardcore-lab?tab=repositories"><b>⚔️ Исследовать архив</b></a>
+  <a href="https://github.com/Hardcore-lab?tab=repositories"><b>⚔️ EXPLORE THE ARCHIVES</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Hardcore-lab/Hardcore-lab/issues/new"><b>📡 Отправить сигнал</b></a>
+  <a href="https://github.com/Hardcore-lab/Hardcore-lab/issues/new"><b>📡 SEND A SIGNAL</b></a>
 </div>
 
 ---
 
-### ＋＋＋ Досье оператора ＋＋＋
+### ＋＋＋ OPERATOR DOSSIER ＋＋＋
 
-Я — **Astartes**, здесь мой цифровой архив. Мне интересны веб-разработка, Linux, автоматизация, инфраструктура и безопасность. Люблю превращать сложные задачи в понятные работающие системы.
+I am **Adeptus Astartes**, and this is my digital archive. I’m interested in web development, Linux, automation, infrastructure, and security. I enjoy turning complex problems into clear, reliable systems.
 
-### ⚙️ Секторы кузни
+### ⚙️ SECTORS OF THE FORGE
 
-| Сектор | Что внутри |
+| Sector | What you'll find |
 | :--- | :--- |
-| **I · Архитектура** | Веб-проекты, интерфейсы и практичные инструменты. |
-| **II · Машинный дух** | Linux, серверы, контейнеры и автоматизация. |
-| **III · Оборона** | Исследование безопасности и внимательная проверка решений. |
-| **IV · Эксперименты** | Новые идеи, AI-инструменты и прототипы. |
+| **I · Architecture** | Web projects, interfaces, and practical tools. |
+| **II · Machine Spirit** | Linux, servers, containers, and automation. |
+| **III · Defense** | Security research and careful validation. |
+| **IV · Experiments** | New ideas, AI tools, and prototypes. |
 
-### 🕯️ Литания сборки
+### 🕯️ BUILDING LITANY
 
-> Разобрать хаос. Собрать систему. Проверить дважды. Отправить в прод.
+> Untangle the chaos. Build the system. Check twice. Ship to production.
 
 <div align="center">
   <sub>✠ FORGE · DEFEND · BUILD ✠</sub><br>
-  <sub>Неофициальное оформление в духе мрачной научной фантастики.</sub>
+  <sub>Unofficial profile styling inspired by grimdark science fiction.</sub>
 </div>
