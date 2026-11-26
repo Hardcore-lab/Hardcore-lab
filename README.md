@@ -14,7 +14,7 @@
 
 ### ＋＋＋ OPERATOR DOSSIER ＋＋＋
 
-I am **Adeptus Astartes**, and this is my digital archive. I’m interested in web development, Linux, automation, infrastructure, and security. I enjoy turning complex problems into clear, reliable systems.
+I am **Adeptus Astartes**, and this is my digital archive. I’m interested in Web development, Linux, automation, infrastructure, and security. I enjoy turning complex problems into clear, reliable systems.
 
 ### ⚙️ SECTORS OF THE FORGE
 
